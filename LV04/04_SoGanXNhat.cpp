@@ -20,8 +20,9 @@ int main()
 	   	if(j>b[i])
 	   	  {
 	   	  	j=b[i];
-	   	  //???? em khong biet lam sao tim gia tri a[i] tuong ung voi b[i] sau khi so sanh de in ra:((
+			min=a[i];
+
 		  }
 	   }
-	printf(" So gan gia tri x nhat la ");
+	printf(" So gan gia tri x nhat la %d ", min);
 }
