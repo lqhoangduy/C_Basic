@@ -21,7 +21,6 @@ int main()
 	   	  {
 	   	  	j=b[i];
 			min=a[i];
-
 		  }
 	   }
 	printf(" So gan gia tri x nhat la %d ", min);
